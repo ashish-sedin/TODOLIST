@@ -100,7 +100,8 @@ h1{
     font-weight: 400;
 }
 .task button{
-    background-color: #0a19a4;
+    padding: 10px 60PX 10px 10px;
+    background-color: #ac1515;
     color: #ffffff;
     border: none;
     cursor: pointer;
@@ -108,4 +109,6 @@ h1{
     height: 100%;
     width: 40px;
     border-radius: 5px;
+    text-align:left;
+    
 }
